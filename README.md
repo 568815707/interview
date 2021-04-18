@@ -1,6 +1,6 @@
-# blued-interview-backend 
+# interview
 
-> 该项目是 Blued 面试系统，前端为 React + Antd ，服务端采用 Koa2。注意 Node 版本为 7+ 
+> 该项目是面试系统，前端为 React + Antd ，服务端采用 Koa2。注意 Node 版本为 7+ 
 
 ### 一、使用指南
 
@@ -8,8 +8,8 @@
   ```
   cd ~
   mkdir workspace && cd workspace
-  git clone https://git.blued.cn/wanghaiyang/blued-interview-backend.git
-  cd blued-interview-backend
+  git clone https://github.com/568815707/interview
+  cd interview
   npm i
   npm run dev
   ```  
@@ -70,8 +70,7 @@
 
 ### 六、关于作者
 
-- 王海阳（osenki）www.osenki.cn
-- 刘映峰 (Yingfeng Liu) 
+- osenki
 
 ### 七、授权协议
 
