@@ -1,0 +1,55 @@
+{
+  "levels": ["0", "1", "2"],
+  "teches": ["Web", "Bi", "Android", "Ios", "Php"],
+  "Web": ["css", "js", "html", "react"],
+  "Bi": ["hive", "spark", "sql", "datamodel"],
+  "Android": ["android", "java", "arith"],
+  "Ios": ["ios", "objectc", "arith"],
+  "Php": ["php", "nginx", "mysql", "redis", "linux", "nosql", "dispersed"],
+  "meetingRoom": ["mke", "msn", "jk1", "jk2", "ly", "sqs", "ty", "lsdm", "xy"],
+  "k2n": {
+    "0": "初级",
+    "1": "中级",
+    "2": "高级",
+
+    "Web": "大前端开发",
+    "css": "Css",
+    "js": "Js",
+    "html": "Html",
+    "react": "React",
+
+    "Bi": "大数据工程师",
+    "hive": "Hive",
+    "spark": "Spark",
+    "sql": "Sql",
+    "datamodel": "数据仓库建模",
+
+    "Android": "Android工程师",
+    "android": "Android",
+    "java": "Java",
+
+    "Ios": "IOS工程师",
+    "ios": "IOS",
+    "objectc": "Object-C",
+    "arith": "算法",
+
+    "Php": "PHP工程师",
+    "redis": "Redis",
+    "linux": "Linux",
+    "php": "PHP",
+    "nginx": "Nginx",
+    "mysql": "Mysql",
+    "nosql": "NOSQL",
+    "dispersed": "分布式",
+
+    "mke": "米克尔",
+    "msn": "美少年之恋",
+    "jk1": "健康部会议室(1)",
+    "jk2": "健康部会议室(2)",
+    "ly": "蓝宇",
+    "sqs": "十七岁的天空",
+    "ty": "天佑鲍比",
+    "lsdm": "蓝色大门",
+    "xy": "喜宴"
+  }
+}

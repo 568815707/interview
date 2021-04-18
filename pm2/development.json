@@ -1,0 +1,12 @@
+{
+  "name": "blued-interview-backend",
+  "script": "/home/work/blued-interview-backend/index.js",
+  "error_file": "/data/logs/pm2/blued-interview-backend/error.log",
+  "out_file": "/data/logs/pm2/blued-interview-backend/out.log",
+  "max_memory_restart"  : "500M",
+  "log_date_format": "YYYY-MM-DD HH:mm Z",
+  "ignore_watch": ["node_modules"],
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
